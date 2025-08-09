@@ -1,0 +1,33 @@
+portfolio-website/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   ├── ThemeToggle.jsx
+│   ├── sections/
+│   │   ├── About.jsx
+│   │   ├── Resume.jsx
+│   │   ├── Blogs.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Skills.jsx
+│   │   └── Contact.jsx
+│   ├── data/
+│   │   ├── blogs.js
+│   │   ├── personalInfo.js
+│   │   └── skills.js
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+└── tailwind.config.cjs
+
+
+About with animation
+
+Resume animated cards
+
+Skills with interactive grid
+
+Blogs with hover reveal
+
+Particle background or animated waves?
